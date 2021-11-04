@@ -1,0 +1,8 @@
+j.username=USER18
+j.password=USER18
+book_ex.username=BOOK_EX
+book_ex.password=BOOK_EX
+driver=oracle.jdbc.driver.OracleDriver
+localurl=jdbc:oracle:thin:@human.lepelaka.net:1521:xe
+url=jdbc:oracle:thin:@human.lepelaka.net:1521:xe
+localurl=jdbc:oracle:thin:@localhost:1521:xe
